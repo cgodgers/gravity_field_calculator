@@ -1,3 +1,3 @@
-gravity_field
-# gravity_field_calculator
-# gravity_field_calculator
+# Simple gravity_field_calculator
+
+Made in Rustlang, just for fun :)
