@@ -1,0 +1,6 @@
+[package]
+name = "gravity_field"
+version = "0.1.0"
+authors = ["Guillem Garcia Sans <guillemgarcia15@gmail.com>"]
+
+[dependencies]
